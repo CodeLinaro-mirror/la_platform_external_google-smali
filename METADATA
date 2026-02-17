@@ -14,6 +14,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/google/smali"
-    version: "3.0.7"
+    version: "878d37fe960945e1b2eec430f1649d43910a4fd0"
+    closest_version: "3.0.7"
   }
 }
